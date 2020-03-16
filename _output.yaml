@@ -1,0 +1,5 @@
+beamer_presentation: 
+  latex_engine: xelatex
+  template: beamer_default.tex
+  fonttheme: professionalfonts
+  highlight: pygments
